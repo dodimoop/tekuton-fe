@@ -1,0 +1,54 @@
+{
+  "name": "tekuton-fe",
+  "version": "5.0.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/icons-material": "^5.15.15",
+    "@mui/material": "next",
+    "@mui/x-date-pickers": "^7.3.1",
+    "@tanstack/react-query": "^5.40.1",
+    "@testing-library/jest-dom": "latest",
+    "@testing-library/react": "latest",
+    "@testing-library/user-event": "latest",
+    "@types/jest": "latest",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "autoprefixer": "latest",
+    "axios": "^1.7.2",
+    "chart.js": "^4.4.2",
+    "date-fns": "^3.6.0",
+    "dayjs": "^1.11.11",
+    "postcss": "latest",
+    "react": "latest",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "latest",
+    "react-hook-form": "^7.51.3",
+    "react-router-dom": "^6.23.0",
+    "react-scripts": "latest",
+    "react-toastify": "^10.0.5",
+    "tailwindcss": "latest",
+    "typescript": "latest",
+    "web-vitals": "latest"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
